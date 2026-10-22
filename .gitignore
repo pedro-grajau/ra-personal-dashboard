@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Local dashboard configuration and data
+.env
+.env.*
+!.env.example
+.data/
+node_modules/
+*.log
