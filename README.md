@@ -4,6 +4,12 @@ RetroVault is a local, personal dashboard for exploring your RetroAchievements g
 
 The interface is currently in Brazilian Portuguese and uses a dark theme with customizable accent colors. This documentation is in English.
 
+## Preview
+
+![RetroVault dashboard running with a connected RetroAchievements profile, showing game statistics, consoles, and favorite genres](docs/images/dashboard-preview.jpg)
+
+*An earlier screenshot of the dashboard in use. Counts reflect the profile and counting rules at the time of capture.*
+
 ## Purpose
 
 The project focuses on your games and the adventures you have finished. Its main goals are to:
